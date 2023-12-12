@@ -39,4 +39,4 @@ If you have any feedback, suggestions, or questions, feel free to open an issue 
 
 Thank you for contributing to the "Adulting" journey and making the transition to independent living smoother for everyone.
 
-#### This was generated using ChatGPT
+#### This was README file was generated using ChatGPT
