@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the "Adulting" repository! This resource is dedicated to everyone embarking on the journey of independent living, especially those moving out of their parents' home for the first time. Here, you'll find a meticulously curated list of products and recommendations to set up your new home, home office, and other essential spaces.
+Welcome to the "Adulting" repository. This is a practical guide for anyone stepping into independent living, particularly useful for those moving out of their parents' home for the first time. It features a carefully selected list of essential products and recommendations for setting up your new home or apartment, including a home office and other key areas. For those who are not familiar with using GitHub, view the spreadsheet [here](https://docs.google.com/spreadsheets/d/1rlIZGJyxfiabEmpX-LUPKNCdSRLK1-B5wiJvG2l2OAA/edit?usp=sharing) and feel free to email me with suggestions.
 
 ## Contents
 
@@ -39,4 +39,4 @@ If you have any feedback, suggestions, or questions, feel free to open an issue 
 
 Thank you for contributing to the "Adulting" journey and making the transition to independent living smoother for everyone.
 
-#### This was generated using ChatGPT
+#### This was README file was generated using ChatGPT
