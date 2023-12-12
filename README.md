@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the "Adulting" repository. This is a practical guide for anyone stepping into independent living, particularly useful for those moving out of their parents' home for the first time. It features a carefully selected list of essential products and recommendations for setting up your new home, including a home office and other key areas.
+Welcome to the "Adulting" repository. This is a practical guide for anyone stepping into independent living, particularly useful for those moving out of their parents' home for the first time. It features a carefully selected list of essential products and recommendations for setting up your new home or apartment, including a home office and other key areas.
 
 ## Contents
 
